@@ -3,3 +3,6 @@ original song.txt
 
 *.db
 *.log
+
+target/
+bin/
